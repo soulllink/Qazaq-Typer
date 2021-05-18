@@ -1,6 +1,6 @@
 ## Qazaq Typer For Espanso
 
-Faster way to use Qazaq-unique-characters than default layout
+Faster way to use Qazaq-unique-characters.
 
 Double tap for the win.
 
