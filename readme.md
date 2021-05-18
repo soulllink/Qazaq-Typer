@@ -18,3 +18,8 @@ Qazaq latin ver: official from 28 jan 2021.
 | ЮЮ -> Ү 	| YY -> Ü 	|
 | ИИ -> І 	| II -> I(spec) 	|
 |  	| SS -> Ş 	|
+
+### Installation
+
+> espanso install alt-codes https://github.com/soulllink/Qazaq-Typer --external
+> espanso restart
