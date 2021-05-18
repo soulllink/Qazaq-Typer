@@ -1,0 +1,108 @@
+# Qazaq Typer For Espanso
+# Made by Ivan Bue 2021
+# Faster way to use Qazaq-unique-characters than default layout
+
+name: Qaz-Typer
+parent: default
+
+matches:
+#Latin 28 jan 2021 edition
+    
+    - triger: "AA"
+      replace: "Ä"
+
+    - triger: "GG"
+      replace: "Ğ"
+
+    - triger: "II"
+      replace: "I"
+
+    - triger: "NN"
+      replace: "Ŋ"
+
+    - triger: "OO"
+      replace: "Ö"
+
+    - triger: "SS"
+      replace: "Ş"
+
+    - triger: "UU"
+      replace: "Ū"
+
+    - triger: "YY"
+      replace: "Ü"
+
+    - triger: "aa"
+      replace: "ä"
+
+    - triger: "gg"
+      replace: "ğ"
+
+    - triger: "ii"
+      replace: "ı"
+
+    - triger: "nn"
+      replace: "ŋ"
+
+    - triger: "oo"
+      replace: "ö"
+
+    - triger: "ss"
+      replace: "ş"
+
+    - triger: "uu"
+      replace: "ū"
+
+    - triger: "yy"
+      replace: "ü"
+
+#Cirilic classic
+
+
+    - triger: "АА"
+      replace: "Ә"
+
+    - triger: "ГГ"
+      replace: "Ғ"
+
+    - triger: "КК"
+      replace: "Қ"
+
+    - triger: "НН"
+      replace: "Ң"
+
+    - triger: "ОО"
+      replace: "Ө"
+
+    - triger: "УУ"
+      replace: "Ұ"
+
+    - triger: "ЮЮ"
+      replace: "Ү"
+
+    - triger: "ХХ"
+      replace: "Һ"
+
+    - triger: "аа"
+      replace: "ә"
+
+    - triger: "гг"
+      replace: "ғ"
+
+    - triger: "кк"
+      replace: "қ"
+
+    - triger: "нн"
+      replace: "ң"
+
+    - triger: "оо"
+      replace: "ө"
+
+    - triger: "уу"
+      replace: "ұ"
+
+    - triger: "юю"
+      replace: "ү"
+
+    - triger: "хх"
+      replace: "һ"
