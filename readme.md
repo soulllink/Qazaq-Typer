@@ -1,4 +1,4 @@
-##Qazaq Typer For Espanso
+## Qazaq Typer For Espanso
 
 Faster way to use Qazaq-unique-characters than default layout
 
