@@ -13,7 +13,7 @@ https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D0%BA%D0%B0%D
 
 ### Cirillic
 
-AA -> Ә -> Ä
+AA -> Ә
 
 Г -> Ғ
 
