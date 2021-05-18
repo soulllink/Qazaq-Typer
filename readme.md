@@ -21,6 +21,7 @@ Qazaq latin ver: official from 28 jan 2021.
 
 ### Installation
 
-> espanso install alt-codes https://github.com/soulllink/Qazaq-Typer --external
-> 
-> espanso restart
+```
+espanso install alt-codes https://github.com/soulllink/Qazaq-Typer --external
+espanso restart
+```
