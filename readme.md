@@ -1,5 +1,7 @@
 ## Qazaq Typer For Espanso
 
+***updated version already on hub***
+
 Faster way to use Qazaq-unique-characters.
 
 Double tap for the win.
@@ -9,10 +11,10 @@ Qazaq latin ver: official from 28 jan 2021.
 | Cirillic 	| Latin 	|
 |-	|-	|
 | AA -> Ә 	| AA -> Ä 	|
-| Г -> Ғ 	| GG -> Ğ 	|
-| К -> Қ 	|  	|
-| Н -> Ң 	| NN -> Ŋ 	|
-| О -> Ө 	| OO -> Ö 	|
+| ГГ -> Ғ 	| GG -> Ğ 	|
+| КК -> Қ 	|  	|
+| НН -> Ң 	| NN -> Ŋ 	|
+| ОО -> Ө 	| OO -> Ö 	|
 | УУ -> Ұ 	| UU -> Ū 	|
 | ХХ -> Һ 	|  	|
 | ЮЮ -> Ү 	| YY -> Ü 	|
@@ -22,6 +24,6 @@ Qazaq latin ver: official from 28 jan 2021.
 ### Installation
 
 ```
-espanso install qazaq-typer https://github.com/soulllink/Qazaq-Typer --external
-espanso restart
+espanso install qazaq-typer
+
 ```
